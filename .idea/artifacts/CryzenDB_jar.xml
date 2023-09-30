@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="CryzenDB:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CryzenDB_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CryzenDB.jar">
+        <element id="module-output" name="CryzenDB" />
+      </element>
+    </root>
+  </artifact>
+</component>

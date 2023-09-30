@@ -1,0 +1,14 @@
+main: fr.rggeoiii.cryzen.Main
+name: Cryzen
+version: 1.0
+author: Rg_GeoIII
+commands:
+  test:
+  gban:
+  gunban:
+  gtempban:
+  gmute:
+  gunmute:
+  gtempmute:
+  gkick:
+  sc:
